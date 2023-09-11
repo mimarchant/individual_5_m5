@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Individual_5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_word">agregar palabra</string>
+    <string name="save">guardar</string>
+    <string name="edit_word">editar palabra</string>
+    <string name="add_words">Pulsa el boton para agregar una palabra</string>
+</resources>
